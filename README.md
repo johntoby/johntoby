@@ -7,13 +7,11 @@ I'm a Backend Engineer, Content Creator, and Community Engineer who currently wo
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning JavaScript, Node.js, Express.js, Nest.js.
+- 💡 Fun fact: I'm an Alumnus of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering), Power Learn Project, and Kode Camp!
+- 🌱 I’m currently learning Nodejs, Python, Jenkins, Kubernetes, Cloud.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Engineer, Backend Engineer, DevOps Engineer Engineer, Security Engineer.
+- 💼 Job interests: Cloud Architect, Cloud Engineer, DevOps Engineer, DevSecOps Engineer, Security Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing johntoby007@gmail.com.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="johntoby's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="johntoby's GitHub stats" /> |
-| ------------- | ------------- |
