@@ -7,10 +7,10 @@ I'm a DevOps Engineer, Cloud Security Engineer, and Linux Admin. I'm passionate 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm an Alumnus of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering), Power Learn Project, and Kode Camp!
-- 🌱 I’m currently learning Nodejs, Python, Jenkins, Kubernetes, Cloud.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Architect, Cloud Engineer, DevOps Engineer, DevSecOps Engineer, Security Engineer.
+- 💡 Fun fact: I'm a dropout of the AltSchool Africa Backend Engineering program. Currently a DevOps intern at Kode Camp!
+- 🌱 I’m currently learning Terraform, Docker, Python, Jenkins, Kubernetes, and the entire DevOps stack.
+- 😊 I’m interested in contributing to open source projects, hackathons, internships, and entry-level opportunities in the DevOps / SRE space.
+- 💼 Job interests:  DevOps Engineer, SRE Engineer, Cloud Engineer, DevSecOps Engineer, Security Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing johntoby007@gmail.com.
 
 ---
