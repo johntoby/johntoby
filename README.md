@@ -11,6 +11,7 @@ I'm a DevOps Engineer, Cloud Security Engineer, and Linux Admin. I'm passionate 
 - 🌱 I’m currently learning Terraform, Docker, Python, Jenkins, Kubernetes, and the entire DevOps stack.
 - 😊 I’m interested in contributing to open source projects, hackathons, internships, and entry-level opportunities in the DevOps / SRE space.
 - 💼 Job interests:  DevOps Engineer, SRE Engineer, Cloud Engineer, DevSecOps Engineer, Security Engineer.
+- Certocotaions: GCP Cloud Engineer, GCP Professional Cloud Security Engineer, AWS Certified Cloud Practitioner, SANS GIAC GFACT, MS-900, ISC2 CC
 - 📫 You can [view my resume](#) and contact me by emailing johntoby007@gmail.com.
 
 ---
