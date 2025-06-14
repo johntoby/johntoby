@@ -8,7 +8,7 @@
 - DevOps mentor at Enforca Technologies
 - Cloud engineering mentor at TechRise Africa
 - Skills: Infrastructure as Code using Terraform, Containerization using Docker, Container Orchestration using Kubernetes on EKS, AWS Cloud Infrastructure management, Cloud finops, CI/CD using Github Actions or Jenkins, Linux SysAdmin, GitOps using ArgoCD, Monitoring using Prometheus and Grafana.
-- Certifications: GCP Professional Cloud Security Engineer, GCP Associate Cloud Engineer, AWS Certified Cloud Practitioner, ISC2 Certified in Cybersecurity, SANS GFACT
+- Certifications: Kubernetes and Cloud Native Associate (KCNA), GCP Professional Cloud Security Engineer, GCP Associate Cloud Engineer, AWS Certified Cloud Practitioner, ISC2 Certified in Cybersecurity, SANS GFACT
 - Let's connect johntoby007@gmail.com 
 
 
